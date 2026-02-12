@@ -1,5 +1,5 @@
 let emp = { id: 2, name: "Yuvika" };
-let details = { ...emp };
+let details = { ...emp }; //spread operator 
 
 details.name = "Jindal";
 
